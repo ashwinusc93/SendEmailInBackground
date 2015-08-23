@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android Studio Projects\SendEmailInBackground\app\libs\mail.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\Android Studio Projects\SendEmailInBackground\app\build\intermediates\pre-dexed\debug\mail-d647e8490b181457a5a0a803f5e8cf4be310b740.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio Projects\SendEmailInBackground\app\libs\additionnal.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\Android Studio Projects\SendEmailInBackground\app\build\intermediates\pre-dexed\debug\additionnal-ea66677db67fffbcb2b9add1e34127e8e139923c.jar" />
+    </item>
+    <item
+        jar="D:\Android Studio Projects\SendEmailInBackground\app\libs\activation.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\Android Studio Projects\SendEmailInBackground\app\build\intermediates\pre-dexed\debug\activation-9a2341ed0af694a1c9c4086fd02a740aef0df6bc.jar" />
+    </item>
+
+</items>
